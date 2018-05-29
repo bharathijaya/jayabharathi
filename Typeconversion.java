@@ -6,6 +6,7 @@ public class TypeConversion
 }
  byte one = 50;
  byte two = 50;
- byte three = byte(one + two);
- System.out.println("three");
-}
+ int three = one + two;
+{
+ System.out.println(three);
+}}
